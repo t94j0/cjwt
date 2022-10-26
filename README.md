@@ -1,5 +1,11 @@
 # Cat JWT
 
+[![PyPI version](https://badge.fury.io/py/cjwt.svg)](https://badge.fury.io/py/cjwt)
+
+## Install
+
+`pip3 install cjwt`
+
 ## Usage
 
 ```
